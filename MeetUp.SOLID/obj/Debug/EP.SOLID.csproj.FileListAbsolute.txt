@@ -1,0 +1,6 @@
+C:\Users\Rodolfo\Desktop\ep-solid\SOLID\EP.SOLID\obj\Debug\EP.SOLID.csprojAssemblyReference.cache
+C:\Users\Rodolfo\Desktop\ep-solid\SOLID\EP.SOLID\obj\Debug\EP.SOLID.csproj.CoreCompileInputs.cache
+C:\Users\Rodolfo\Desktop\ep-solid\SOLID\EP.SOLID\bin\Debug\EP.SOLID.exe
+C:\Users\Rodolfo\Desktop\ep-solid\SOLID\EP.SOLID\bin\Debug\EP.SOLID.pdb
+C:\Users\Rodolfo\Desktop\ep-solid\SOLID\EP.SOLID\obj\Debug\EP.SOLID.exe
+C:\Users\Rodolfo\Desktop\ep-solid\SOLID\EP.SOLID\obj\Debug\EP.SOLID.pdb
